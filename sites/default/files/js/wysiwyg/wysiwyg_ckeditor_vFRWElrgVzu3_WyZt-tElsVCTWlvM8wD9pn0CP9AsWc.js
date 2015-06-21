@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/DroopalBlog/sites/all/libraries/ckeditor/';
