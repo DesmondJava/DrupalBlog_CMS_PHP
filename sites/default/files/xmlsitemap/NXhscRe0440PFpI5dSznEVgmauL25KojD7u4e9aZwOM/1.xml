@@ -24,11 +24,11 @@
 <url><loc>http://localhost/DroopalBlog/tegi/pirozhennye</loc></url>
 <url><loc>http://localhost/DroopalBlog/users/lena</loc></url>
 <url><loc>http://localhost/DroopalBlog/about-me</loc><lastmod>2015-06-15T17:53Z</lastmod><changefreq>weekly</changefreq></url>
-<url><loc>http://localhost/DroopalBlog/content/statya-dlya-testa</loc><lastmod>2015-06-24T16:34Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://localhost/DroopalBlog/article/zavarnye-pirozhennye</loc><lastmod>2015-06-23T20:46Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://localhost/DroopalBlog/article/plov</loc><lastmod>2015-06-23T20:48Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://localhost/DroopalBlog/article/egipet</loc><lastmod>2015-06-23T20:49Z</lastmod><changefreq>daily</changefreq></url>
-<url><loc>http://localhost/DroopalBlog/article/greciya</loc><lastmod>2015-06-24T17:43Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>http://localhost/DroopalBlog/content/statya-dlya-testa</loc><lastmod>2015-06-24T16:34Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost/DroopalBlog/article/zavarnye-pirozhennye</loc><lastmod>2015-06-23T20:46Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost/DroopalBlog/article/plov</loc><lastmod>2015-06-23T20:48Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost/DroopalBlog/article/egipet</loc><lastmod>2015-06-23T20:49Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost/DroopalBlog/article/greciya</loc><lastmod>2015-06-24T17:43Z</lastmod><changefreq>daily</changefreq></url>
 <url><loc>http://localhost/DroopalBlog/users/des</loc></url>
 <url><loc>http://localhost/DroopalBlog/users/vadim-shevchenko</loc></url>
 </urlset>

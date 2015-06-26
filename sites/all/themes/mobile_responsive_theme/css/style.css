@@ -32,6 +32,8 @@ time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+ 
+  
 }
 
 article, aside, details, figcaption, figure, 
@@ -312,6 +314,7 @@ img,
 video {
   max-width:100%;
   height:auto;
+  
 }
 
 video {
@@ -628,6 +631,7 @@ ul.menu{
 
 .theme-default .nivo-controlNav a:hover img{
   background: #999;
+
 }
 
 .content-sidebar-wrap {
@@ -646,13 +650,25 @@ ul.menu{
   float: left;
 }
 
+
 #block-system-user-menu{
 padding-bottom: 30px;
+
 }
 
 #block-system-navigation{
 padding-bottom: 30px;
 }
+
+
+#block-comment-recent{
+padding-bottom: 30px;
+}
+
+#block-user-new{
+padding-bottom: 30px;
+}
+
 
 #block-user-online{
 padding-bottom: 30px;
@@ -726,15 +742,21 @@ body.sidebar-second #sidebar-second {
   margin:20px 0;
 }
 
+
+
 .node h2.title, .page-title {
-  font-size: 18px;
-  margin-bottom: 20px;
+  font-size: 35px;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  color: #F45145;
+  padding-bottom: 25px;
 }
 
 .node h2.title{
   font-size: 35px;
   text-align: center;
   font-family: 'PT Serif', serif;
+  padding-bottom: 0px;
 }
 
 .node h2.title a{
@@ -909,9 +931,14 @@ input.form-checkbox, input.form-radio {
   padding: 0;
 }
 
-/*.field-item  {
+div.field-items {
 text-align: center;
-}*/
+}
+
+div.field-items  p{
+text-align: justify;
+}
+
 
 ul.inline {
   clear: both;
@@ -1116,6 +1143,7 @@ img {
   max-width: 100%;
   height: auto;
   text-align: center;
+  
 }
 
 .comment h2.title { 
@@ -1581,6 +1609,7 @@ ol.search-results {
 .node-article .field-type-image img{
   border: 8px solid #D8D8D8;
   margin: 0 0 2% 0;
+  margin-top: 10px;
   
 }
 
