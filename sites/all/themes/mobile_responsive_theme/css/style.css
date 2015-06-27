@@ -686,6 +686,10 @@ aside #user-login-form input.form-text{
   width: 90%;
 }
 
+#user-login-form div:first-child  {
+margin-bottom: 20px;
+}
+
 /* 3 columns */
 
 body.two-sidebars .content-sidebar-wrap {
