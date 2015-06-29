@@ -195,7 +195,7 @@
         </span>
       <?php endif; ?>
 
-      <p class="credits"> <?php print t('Design by'); ?>  <a href="http://www.freebiezz.com">FreeBiezz</a></p>
+      <p class="credits"> <?php print t('Design by'); ?>  <a href="http://www.vk.com/spawnkiev">Vadym</a></p>
       <div class="clear"></div>
     </div>
   </div>
