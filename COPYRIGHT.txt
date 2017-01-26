@@ -18,7 +18,7 @@ Drupal is a registered trademark of Dries Buytaert.
 
 Drupal includes works under other copyright notices and distributed
 according to the terms of the GNU General Public License or a compatible
-license, including:
+license including:
 
 Javascript
 
