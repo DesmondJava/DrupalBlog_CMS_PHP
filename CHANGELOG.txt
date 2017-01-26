@@ -21,7 +21,7 @@ Drupal 7.37, 2015-05-07
   on the Permissions page (string change).
 - Numerous small bug fixes.
 - Numerous API documentation improvements.
-- Additional automated test coverage.
+- Additional automated test coverage..
 
 Drupal 7.36, 2015-04-01
 -----------------------
